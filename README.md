@@ -20,6 +20,14 @@ Les outils mis en oeuvre :
 ![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553701046-capture.png)<br>
 
 
+### Diagrammes de classe
+
+![Capture2.png](https://image.noelshack.com/fichiers/2019/13/3/1553701172-capture2.png)<br>
+![Capture3.png](https://image.noelshack.com/fichiers/2019/13/3/1553701182-capture3.png)<br>
+
+
+### Développement
+
 Nous retrouvons donc deux interfaces Windows Forms :
 
 ![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553695324-capture.png)<br>
