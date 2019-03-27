@@ -15,7 +15,10 @@ Les outils mis en oeuvre :
 * C#
 * Windows Form
 
+### Cas d'utilisation
+
 ![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553701046-capture.png)<br>
+
 
 Nous retrouvons donc deux interfaces Windows Forms :
 
