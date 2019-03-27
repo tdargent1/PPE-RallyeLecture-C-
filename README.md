@@ -22,3 +22,7 @@ Nous y retrouvons :
 * Choix du niveau scolaire.
 * Choix de la génération du mot de passe.
 
+### Schéma de la base de données
+![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553696893-capture3.png)<br>
+![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553696895-capture4.png)
+
