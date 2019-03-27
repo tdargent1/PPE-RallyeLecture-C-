@@ -15,3 +15,10 @@ La première permet à un enseignant (et uniquement à un enseignant) de se conn
 
 ![Capture2.png](https://image.noelshack.com/fichiers/2019/13/3/1553695327-capture2.png)<br>
 La seconde est donc l'interface principale.
+Nous y retrouvons : 
+* Choix d'un répertoire contenant des csv.
+* Choix du csv à utiliser.
+* Choix de l'année scolaire.
+* Choix du niveau scolaire.
+* Choix de la génération du mot de passe.
+
