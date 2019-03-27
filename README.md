@@ -1,12 +1,19 @@
 # Rallye Lecture
 
-Le principe était de réliser une application Windows Form en C# permettant à un professeur d'alimenter une base de données avec un fichier csv. Le fichier csv contient donc une liste d'élève (prénom et nom).
+Le principe était de réaliser une application Windows Form en C# permettant à un professeur d'alimenter une base de données avec un fichier csv. Le fichier csv contient donc une liste d'élève (prénom et nom).
+Par la suite après avoir lancé le programme, des identifiants de connexion à notre site sont donc créées.
 
 Le projet est divisé en 3 grandes parties :
 
 * Lecture des informations d'un fichier csv.
 * Ecriture d'un fichier csv avec les informations de connection de chaques eleves.
 * Alimentation d'une base de données.
+
+Les outils mis en oeuvre : 
+* Git
+* Visual Studio
+* C#
+* Windows Form
 
 Nous retrouvons donc deux interfaces Windows Forms :
 
