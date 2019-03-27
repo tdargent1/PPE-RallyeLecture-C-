@@ -10,8 +10,8 @@ Le projet est divisé en 3 grandes parties :
 
 Nous retrouvons donc deux interfaces Windows Forms :
 
-![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553695324-capture.png)
+![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553695324-capture.png)<br>
 La première permet à un enseignant (et uniquement à un enseignant) de se connecter à l'application.
 
-![Capture2.png](https://image.noelshack.com/fichiers/2019/13/3/1553695327-capture2.png)
+![Capture2.png](https://image.noelshack.com/fichiers/2019/13/3/1553695327-capture2.png)<br>
 La seconde est donc l'interface principale.
