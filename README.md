@@ -15,6 +15,8 @@ Les outils mis en oeuvre :
 * C#
 * Windows Form
 
+![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553701046-capture.png)<br>
+
 Nous retrouvons donc deux interfaces Windows Forms :
 
 ![Capture.png](https://image.noelshack.com/fichiers/2019/13/3/1553695324-capture.png)<br>
